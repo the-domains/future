@@ -1,0 +1,28 @@
+name: Future
+favicon: null
+layout_spectrum: 0.5332992295734584
+typography_spectrum: 0.15933901676908135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6273678983561695
+  lightness: 0.8871199924033135
+  saturation: 0.4360557834152132
+  rhythmicContrast: 0.19658921309746802
+purpose: []
