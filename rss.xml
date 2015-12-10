@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Futurist Explores Today and Tomorrow]]></title>
+        <description><![CDATA[Futurist Explores Today and Tomorrow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 00:27:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rise of the Machines: Robots and the New World of Work]]></title>
+            <description><![CDATA[<article><h1>Rise of the Machines: Robots and the New World of Work</h1><p>It won't be long before robots have the cognitive skills to think, act and react like humans. What does a new species mean to our own? We must develop our own skills alongside the robots. We must be able to complement the work they do. We must evolve.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e4060f6e7af72748973bff4c6be055464e45bf1.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/philip-jennings/rise-of-the-machines-robo_b_8608184.html</link>
+            <guid isPermaLink="false">c330b93e-2ba6-42a3-aaf7-00dce25e6167</guid>
+            <pubDate>Thu, 10 Dec 2015 00:27:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
