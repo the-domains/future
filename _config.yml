@@ -1,6 +1,6 @@
 name: Future
 favicon: null
-layout_spectrum: 0.5332992295734584
+layout_spectrum: 0.28262
 typography_spectrum: 0.15933901676908135
 title: Futurist Explores Today and Tomorrow
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6273678983561695
-  lightness: 0.8871199924033135
-  saturation: 0.4360557834152132
-  rhythmicContrast: 0.19658921309746802
+  brandStrength: 0.5625
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
